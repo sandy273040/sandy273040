@@ -1,4 +1,4 @@
-<img width=”100%” src=”[https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUserName]&theme=vue-dark&line_height=22&layout=compact&hide=less](https://profile-summary-for-github.com/user/sandy273040)" />
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUserName]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 
 <!--
 **sandy273040/sandy273040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
